@@ -2470,6 +2470,12 @@ input, select, textarea {
 				#intro p.style2 {
 					font-size: 2.25em;
 				}
+		#main p.style3 {
+			font-size: 1.2em;
+			width: 48em;
+			margin: 0 auto;
+			text-align: center;
+		}
 
 		/* Footer */
 
