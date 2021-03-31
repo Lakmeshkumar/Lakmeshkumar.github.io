@@ -2269,6 +2269,13 @@ input, select, textarea {
 
 /* Main */
 
+		#main p.style3 {
+			font-size: 1.5em;
+			width: 48em;
+			margin: 0 auto;
+			text-align: center;
+		}
+
 /* Footer */
 
 	#footer {
