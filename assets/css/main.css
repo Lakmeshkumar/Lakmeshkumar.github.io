@@ -2472,9 +2472,10 @@ input, select, textarea {
 				}
 		#main p.style3 {
 			font-size: 1.2em;
-			width: 48em;
+			width: auto;
 			margin: 0 auto;
 			text-align: center;
+			padding-bottom: 20px
 		}
 
 		/* Footer */
